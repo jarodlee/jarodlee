@@ -1,20 +1,36 @@
 ### Hi there 👋
 
-<!--
-**jarodlee/jarodlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on campus network & open-source AI deployment
+- 🌱 I’m learning Linux, networking, and local LLM infrastructure
+- 💬 Ask me about OpenClaw / AdGuardHome / School IT architecture
+- 📫 Email: mail.aqde.net
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jarodlee)](https://git.aqde.net)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ghtxx)](https://i.ghtxx.cn)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarodlee)](https://mail.aqde.net)
+![Jarod's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarodlee&show_icons=true&theme=transparent&hide_border=true)
+
+![Ghtxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghtxx&show_icons=true&theme=transparent&hide_border=true)
+
+---
+
+### 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarodlee&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jarodlee&theme=transparent&hide_border=true)
+
+---
+
+### 🛠 Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-Server-black?logo=linux)
+![UOS](https://img.shields.io/badge/UOS-Desktop-blue)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-AI-orange)
+![AdGuardHome](https://img.shields.io/badge/AdGuardHome-DNS-green)
+![Snort](https://img.shields.io/badge/Snort-IDS-red)
